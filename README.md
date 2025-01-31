@@ -14,5 +14,7 @@ I am a passionate web developer with experience in both frontend and backend tec
 
 📫 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/rida-ladib-297068336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
 📧 Email: ridlad7@gmail.com
 🌐 Portfolio: "Coming soon"

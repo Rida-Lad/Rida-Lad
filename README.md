@@ -13,6 +13,6 @@ I am a passionate web developer with experience in both frontend and backend tec
 🔹 Currently Learning: 🅰 Angular.js | ⏭ Next.js
 
 📫 Connect with Me
-💼 LinkedIn: https://www.linkedin.com/in/rida-ladib-297068336/
+💼 LinkedIn: (https://www.linkedin.com/in/rida-ladib)
 📧 Email: ridlad7@gmail.com
 🌐 Portfolio: "Coming soon"

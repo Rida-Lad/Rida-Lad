@@ -1,6 +1,14 @@
 <h2 align="center">𝑯𝒊 👋! 𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑹𝒊𝒅𝒂 𝑳𝒂𝒅𝒊𝒃 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑴𝒐𝒓𝒐𝒄𝒄𝒐</h2>
 
 ###
+###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rida-Lad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rida-Lad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Rida-Lad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U"  />
 
@@ -58,14 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rida-Lad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rida-Lad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Rida-Lad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="left">
   <a href="https://www.youtube.com/@RidLad" target="_blank">

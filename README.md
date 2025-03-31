@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! I'm Rida Ladib 👋</h1>
-<h3 align="center">Full-Stack Developer from Morocco 🇲🇦</h3>
+<h1 align="center">𝑯𝒊 𝒕𝒉𝒆𝒓𝒆! 𝑰'𝒎 𝑹𝒊𝒅𝒂 𝑳𝒂𝒅𝒊𝒃 👋</h1>
+<h3 align="center">𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑴𝒐𝒓𝒐𝒄𝒄𝒐</h3>
 
 <p align="center">
   <a href="mailto:ridlad7@gmail.com"><img src="https://img.shields.io/badge/Email-ridlad7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -12,17 +12,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rida-Lad&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 💫 About Me
+## 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
-- 🔭 I'm currently working on **building scalable web applications**
-- 🌱 I'm learning **Cloud Architecture and DevOps practices**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Express.js, and full-stack development**
-- ⚡ Fun fact: **I love exploring new technologies and solving complex problems**
+- 🔭 𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 **𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬**
+- 🌱 𝐈'𝐦 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 **𝐂𝐥𝐨𝐮𝐝 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬**
+- 👯 𝐈'𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐨𝐧 **𝐨𝐩𝐞𝐧-𝐬𝐨𝐮𝐫𝐜𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬**
+- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 **𝐑𝐞𝐚𝐜𝐭, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬.𝐣𝐬, 𝐚𝐧𝐝 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
+- ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭: **𝐈 𝐥𝐨𝐯𝐞 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬**
 
 <img align="right" height="200" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" alt="Coding illustration" />
 
-## 🚀 My Tech Stack
+## 🚀 𝑴𝒚 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 ### Frontend
 <p>

@@ -58,13 +58,13 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-## 📫 Connect With Me
+## 📫 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
 
 <p align="center">
   <a href="https://www.youtube.com/@RidLad"><img src="https://img.shields.io/badge/YouTube-@RidLad-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>

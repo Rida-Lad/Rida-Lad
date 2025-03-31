@@ -8,8 +8,16 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rida-Lad&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" style="display: inline-block;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rida-Lad&theme=radical&hide_border=true" alt="GitHub Streak" style="display: inline-block;" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Rida-Lad&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rida-Lad&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆

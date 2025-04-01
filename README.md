@@ -1,5 +1,5 @@
-<h1 align="center">𝑯𝒊 𝒕𝒉𝒆𝒓𝒆! 𝑰'𝒎 𝑹𝒊𝒅𝒂 𝑳𝒂𝒅𝒊𝒃 👋</h1>
-<h3 align="center">𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑴𝒐𝒓𝒐𝒄𝒄𝒐</h3>
+<h1 align="center">Hi there! I'm Rida Ladib 👋</h1>
+<h3 align="center">Full-Stack Developer from Morocco</h3>
 
 <p align="center">
   <a href="mailto:ridlad7@gmail.com"><img src="https://img.shields.io/badge/Email-ridlad7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -7,30 +7,7 @@
   <a href="https://wa.me/212605975668"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Rida-Lad&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rida-Lad&theme=radical&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
-
-- 🔭 𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 **𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬**
-- 🌱 𝐈'𝐦 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 **𝐂𝐥𝐨𝐮𝐝 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬**
-- 👯 𝐈'𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐨𝐧 **𝐨𝐩𝐞𝐧-𝐬𝐨𝐮𝐫𝐜𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬**
-- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 **𝐑𝐞𝐚𝐜𝐭, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬.𝐣𝐬, 𝐚𝐧𝐝 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
-- ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭: **𝐈 𝐥𝐨𝐯𝐞 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬**
-
-<img align="right" height="200" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" alt="Coding illustration" />
-
-## 🚀 𝑴𝒚 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
+## 🚀 My Tech Stack
 
 ### Frontend
 <p>
@@ -66,13 +43,18 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
-## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-## 📫 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
+<!-- GitHub Activity Graph (Contribution Calendar) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rida-Lad&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.youtube.com/@RidLad"><img src="https://img.shields.io/badge/YouTube-@RidLad-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -83,6 +65,5 @@
 ---
 
 <div align="center">
-  <p>𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆! 𝑳𝒆𝒕'𝒔 𝒄𝒐𝒏𝒏𝒆𝒄𝒕 𝒂𝒏𝒅 𝒃𝒖𝒊𝒍𝒅 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒂𝒎𝒂𝒛𝒊𝒏𝒈 𝒕𝒐𝒈𝒆𝒕𝒉𝒆𝒓! 💻
-</p>
+  <p>Thank you for visiting my profile! Let's connect and build something amazing together! 💻</p>
 </div>

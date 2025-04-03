@@ -49,9 +49,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rida-Lad&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Rida-Lad&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 <!-- GitHub Activity Graph (Contribution Calendar) -->
 <p align="center">

@@ -49,7 +49,7 @@
 </p>
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rida-Lad&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.entelecheia.me?user=Rida-Lad&theme=radical" alt="GitHub Streak Stats" />
 </p>
 <!-- GitHub Contribution Stats -->
 <p align="center">

@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/rida-ladib/"><img src="https://img.shields.io/badge/LinkedIn-Rida_Ladib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/212605975668"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
-
+  
 ## 🚀 My Tech Stack
 
 ### Frontend

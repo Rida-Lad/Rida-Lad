@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer from Morocco</h3>
 
 <p align="center">
-  <a href="mailto:ridlad7@gmail.com"><img src="https://img.shields.io/badge/Email-ridlad7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ridlad7@gmail.com"><img src="https://img.shields.io/badge/Email-ridlad7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rida-ladib/"><img src="https://img.shields.io/badge/LinkedIn-Rida_Ladib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/212605975668"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>

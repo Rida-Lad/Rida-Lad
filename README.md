@@ -49,17 +49,25 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.entelecheia.me?user=Rida-Lad&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rida-Lad&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Streak Stats" />
 </p>
+
 <!-- GitHub Contribution Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rida-Lad&theme=radical&cache=0" alt="GitHub Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rida-Lad&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Contribution Graph" />
 </p>
-<!-- GitHub Activity Graph (Contribution Calendar) -->
+
+<!-- GitHub Activity Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rida-Lad&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rida-Lad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=0" alt="GitHub Activity Stats" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rida-Lad&theme=radical&column=7&no-frame=true&count_private=true" alt="GitHub Trophies" />
 </p>
 
 

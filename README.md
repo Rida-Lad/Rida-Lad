@@ -55,11 +55,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rida-Lad&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Contribution Graph" />
 </p>
 
-<!-- GitHub Activity Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rida-Lad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=0" alt="GitHub Activity Stats" />
-</p>
-
 
 
 ## 📫 Connect With Me

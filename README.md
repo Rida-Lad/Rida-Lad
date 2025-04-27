@@ -65,10 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rida-Lad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=0" alt="GitHub Activity Stats" />
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rida-Lad&theme=radical&column=7&no-frame=true&count_private=true" alt="GitHub Trophies" />
-</p>
 
 
 ## 📫 Connect With Me

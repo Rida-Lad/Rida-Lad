@@ -74,6 +74,6 @@
 ---
 
 <div align="center">
-  <h3>🚀 Let's Build Something Amazing Together!</h3>
-  <p>Feel free to reach out for collaborations, projects, or just a chat! 😊</p>
+  <h3>Let's Build Something Amazing Together!</h3>
+  <p>Feel free to reach out for collaborations, projects, or just a chat!</p>
 </div>

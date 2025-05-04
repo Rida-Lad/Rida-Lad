@@ -52,8 +52,9 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Rida-Lad&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=vision-friendly-dark&hide_border=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rida-Lad&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideLabels=FF0000&currStreakLabel=FF0000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=dark&hide_border=true&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg" />

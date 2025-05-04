@@ -57,23 +57,11 @@
 
 ### 📊 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=default&hide_border=true&layout=compact&bg_color=FFFFFF&title_color=FF0000&text_color=333333&icon_color=FF0000)  
-<picture>
-  <!-- DARK MODE (Black + Red) -->
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake-dark.svg?background=000000&stroke=FF0000&color=FF0000"
-  />
-  <!-- LIGHT MODE (White + Red) -->
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg?background=FFFFFF&stroke=FF0000&color=FF0000" 
-  />
-  <!-- DEFAULT (Light mode fallback) -->
-  <img 
-    alt="github-snake" 
-    src="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg?background=FFFFFF&stroke=FF0000&color=FF0000" 
-  />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg" />
+  </picture>
 </div>
 
 

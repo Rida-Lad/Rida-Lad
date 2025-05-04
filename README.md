@@ -73,7 +73,7 @@
 
 ---
 
-
 <div align="center">
-  <p>Thank you for visiting my profile! Let's connect and build something amazing together! 💻</p>
+  <h3>🚀 Let's Build Something Amazing Together!</h3>
+  <p>Feel free to reach out for collaborations, projects, or just a chat! 😊</p>
 </div>

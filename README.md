@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Rida-Lad/Rida-Lad/blob/main/assets/banner.png?raw=true" alt="Banner" width="100%"/>
+</div>
+
 <h1 align="center">Hi there! I'm Rida Ladib 👋</h1>
 <h3 align="center">Full-Stack Developer from Morocco</h3>
 

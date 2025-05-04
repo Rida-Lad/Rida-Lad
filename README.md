@@ -46,16 +46,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg" />
-</picture>
-
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Rida-Lad&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=radical&hide_border=true&layout=compact)  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg" />
+  </picture>
+</div>
 
 
 

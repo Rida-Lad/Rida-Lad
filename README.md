@@ -50,6 +50,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg" />
+</picture>
+
 
 
 
@@ -62,6 +68,7 @@
 </p>
 
 ---
+
 
 <div align="center">
   <p>Thank you for visiting my profile! Let's connect and build something amazing together! 💻</p>

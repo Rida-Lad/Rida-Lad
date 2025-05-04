@@ -52,13 +52,13 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Rida-Lad&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=dark&hide_border=true&layout=compact)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg?color_snake=red&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg?color_snake=red&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353" />
-</picture>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Rida-Lad&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rida-Lad&theme=vision-friendly-dark&hide_border=true&layout=compact)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Rida-Lad/Rida-Lad/output/github-snake.svg" />
+  </picture>
 </div>
 
 

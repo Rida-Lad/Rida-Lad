@@ -1,4 +1,4 @@
-<div align="center"
+<div align="center">
   <img src="https://github.com/Rida-Lad/Rida-Lad/blob/main/banner.png?raw=true" alt="Banner" width="100%"/>
 </div>
 

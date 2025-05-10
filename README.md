@@ -9,6 +9,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ridlad7@gmail.com"><img src="https://img.shields.io/badge/Email-ridlad7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rida-ladib/"><img src="https://img.shields.io/badge/LinkedIn-Rida_Ladib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/212605975668"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ridala_l/"><img src="https://img.shields.io/badge/Instagram-@ridala__l-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
   
 ## 🚀 My Tech Stack
@@ -62,14 +63,6 @@
 </div>
 
 
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.youtube.com/@RidLad"><img src="https://img.shields.io/badge/YouTube-@RidLad-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ridala_l/"><img src="https://img.shields.io/badge/Instagram-@ridala__l-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
 
 ---
 
